@@ -1,4 +1,4 @@
-# tictactoe
+# tictactoe game
 
 # printing the game board
 
