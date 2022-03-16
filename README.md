@@ -4,7 +4,7 @@
 
 # take player input
 
-# Check for win or tie
+# Check for win or tie !
 
 # Switch the player
 
