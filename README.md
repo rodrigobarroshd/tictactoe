@@ -1,6 +1,6 @@
 # tictactoe game
 
-# printing the game board
+# printing the game board !
 
 # take player input
 
