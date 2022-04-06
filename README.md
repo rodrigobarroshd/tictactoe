@@ -4,7 +4,7 @@
 
 # It is a two-player game. In this game, there is a board with 3×3 squares.
 
-# printing the game board !
+printing the game board !
 
 # take player input
 
