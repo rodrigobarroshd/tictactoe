@@ -14,7 +14,7 @@ If no one can logically create a straight line with its symbol, the game ends in
 
 ![](https://github.com/tictactoe/images/tic-tac-toe.gif)
 
-
+![](tic-tac-toe.gif)
 # printing the game board !
 
 # take player input
