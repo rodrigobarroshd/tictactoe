@@ -12,6 +12,8 @@ Create a straight line before your opponent to win the game.
 Prevent his opponent from creating a straight line first.
 If no one can logically create a straight line with its symbol, the game ends in a tie. So there are only three possible outcomes: one player wins, his opponent (human or computer) wins, or there is a tie.
 
+![](https://github.com/tictactoe/images/tic-tac-toe.gif)
+
 
 # printing the game board !
 
